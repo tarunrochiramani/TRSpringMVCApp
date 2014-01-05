@@ -1,3 +1,7 @@
+To add files to this repository
+* git remote add origin https://github.com/tarunrochiramani/TRSpringMVCApp.git
+* git push origin HEAD:master
+
 This is a sample Spring MVC app created with the following steps
 1) Create a maven repo: mvn archetype:generate -DgroupId=com.tarun -DartifactId=TRSpringMVCApp -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
 
